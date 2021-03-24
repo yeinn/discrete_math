@@ -1,0 +1,6 @@
+﻿  cl : 명령줄 warning D9025 : '/sdl'을(를) '/GS-'(으)로 재정의합니다.
+  소스.c
+C:\Users\admin\Desktop\CUK 2019 2학기\이산수학\discrete math\discrete math\소스.c(41,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+  LINK : C:\Users\admin\Desktop\CUK 2019 2학기\이산수학\discrete math\Debug\discrete math.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  discrete math.vcxproj -> C:\Users\admin\Desktop\CUK 2019 2학기\이산수학\discrete math\Debug\discrete math.exe
